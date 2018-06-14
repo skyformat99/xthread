@@ -1,5 +1,7 @@
 //
 // Created by Josin on 2018/6/12.
+// All rights reserved Licensing with LGPLs
+// All users must keep the header note announcement reserved
 //
 
 #include <stdio.h>
