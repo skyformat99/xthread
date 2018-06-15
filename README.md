@@ -60,7 +60,7 @@ pool_set_threads_stop_or_pause(pools, THREAD_STOP);
 pthread_exit(NULL);
 ```
 
-## API  ##
+## APIs  ##
 
 ```c
 /* 初始化线程池 */
